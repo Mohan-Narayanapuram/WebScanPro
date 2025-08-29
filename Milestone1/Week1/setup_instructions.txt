@@ -1,5 +1,9 @@
 Week 1: Project Initialization and Setup
 
-- Defined project goals: building a modular web vulnerability scanner.
-- Set up DVWA, Juice Shop, or bWAPP on local server using XAMPP/Docker.
-- Explored the target application structure, functionality, and potential weak points.
+- Defined the project scope: building a modular web vulnerability scanner.
+- Installed and configured vulnerable applications:
+  - DVWA (Damn Vulnerable Web Application)
+  - Juice Shop
+  - bWAPP
+- Explored their login flows, input fields, and navigation structure.
+- Identified potential weak points for testing in later modules (e.g., forms, URL parameters).
