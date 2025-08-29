@@ -1,0 +1,501 @@
+{
+    "pages": [
+        "https://books.toscrape.com",
+        "https://books.toscrape.com/index.html",
+        "https://books.toscrape.com/catalogue/category/books_1/index.html",
+        "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
+        "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html"
+    ],
+    "forms": {
+        "https://books.toscrape.com": [
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            }
+        ],
+        "https://books.toscrape.com/index.html": [
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            }
+        ],
+        "https://books.toscrape.com/catalogue/category/books_1/index.html": [
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            }
+        ],
+        "https://books.toscrape.com/catalogue/category/books/travel_2/index.html": [
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            }
+        ],
+        "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html": [
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            },
+            {
+                "action": null,
+                "method": "get",
+                "inputs": []
+            }
+        ]
+    }
+}
