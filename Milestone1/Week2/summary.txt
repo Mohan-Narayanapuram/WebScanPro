@@ -1,0 +1,9 @@
+Week 2: Target Scanning Module
+
+- Implemented a custom crawler in Python.
+- The crawler automatically discovers:
+  - Web pages and internal links
+  - Input fields and forms
+- Used BeautifulSoup for parsing HTML content.
+- Saved extracted metadata into `target_metadata.json` for future testing modules.
+- Tested crawler against sample site (Books to Scrape) and verified correct link & form extraction.
